@@ -43,6 +43,10 @@ header nav .branding{
     margin-right: 3rem;
 }
 
+.hero .left img{
+    border-radius: 50%;
+}
+
 .hero .right{
     color: var(--pure);
 }
